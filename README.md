@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=800&center=true&vCenter=true&width=600&lines=Kalyani+Bhagat;Java+Full+Stack+Developer;React+%7C+Spring+Boot+%7C+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=28&pause=1200&center=true&vCenter=true&width=420&lines=Kalyani+Bhagat" alt="Typing SVG" />
 </p>
+
+<p align="center"><b>Java Full Stack Developer</b></p>
 
 ---
 
