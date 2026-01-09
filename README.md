@@ -10,10 +10,6 @@
 
 I am a dedicated **Java Full Stack Developer** with experience in building end-to-end web applications. I work across frontend and backend layers, focusing on scalable architecture, clean code, and smooth user experiences.
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3l1aWxkY3RrM2h4eXk5eXN4cGJqZ2Z2eXQ2ZHBnM3M0d3JqZzN0NSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlQ7LRalQqdWfao/giphy.gif" width="400" />
-</p>
-
 ---
 
 ## 🚀 About Me
